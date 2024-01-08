@@ -1,7 +1,7 @@
 @media screen and (max-width: 900px){
 
 .logo {
-    width: 50px;
+    width: 80px;
     margin: 0;
 }
 
@@ -24,6 +24,7 @@
 #header .contact {
     display: none;
 }
+
 
 /*-------------------------------------------
 Mainvisual
