@@ -13,7 +13,7 @@ details, main {
 
 *, ::before, ::after {
     background-repeat: no-repeat;
-    box-sizing: inherit;
+    box-sizing: border-box;
 }
 
 img {
